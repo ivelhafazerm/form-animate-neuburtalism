@@ -1,3 +1,3 @@
 Live Site
 
-https://ivelhafazerm.github.io/form-animate-neubrutalism
+https://ivelhafazerm.github.io/form-animate-neuburtalism/
